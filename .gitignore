@@ -208,6 +208,7 @@ pyrightconfig.json
 !.vscode/*.code-snippets
 ./vscode/*
 .\.vscode\*.*
+.\.vscode\settings.json
 
 # Local History for Visual Studio Code
 .history/
