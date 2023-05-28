@@ -200,16 +200,6 @@ pyrightconfig.json
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 
 ### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
-./vscode/*
-.\.vscode\*.*
-.\.vscode\settings.json
-.vscode/settings.json
 .vscode/*.*
 
 # Local History for Visual Studio Code
