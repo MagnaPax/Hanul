@@ -231,3 +231,6 @@ pip-selfcheck.json
 __pycache__
 .DS_Store
 venv
+
+# 웹 드라이버
+./drivers/*
